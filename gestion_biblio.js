@@ -77,13 +77,7 @@ for (let i = 0; i < livres.length; i++) {
     }return false
 }
 
-// function changestatusLivre(tab) {
-    
-//     if (tches >0 && tches<=tab.length){
-//     tab[tches-1].disponible == false
-//     }
-//     return tab
-// }
+
 
 
 
