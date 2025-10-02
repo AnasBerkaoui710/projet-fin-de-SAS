@@ -1,14 +1,10 @@
 const prompt = require("prompt-sync")();
 
-let livres = [ 
-{ isbn: "123", titre: "Le Petit Prince", auteur: "Saint-Exupéry", annee: 1943, disponible: true }, 
-{ isbn: "456", titre: "L'Étranger", auteur: "Camus", annee: 1942, disponible: false } ]; 
+let livres = []; 
 
-let abonnes = [ 
-{ id: 1, nom: "Dupont", prenom: "Alice", email: "alice@mail.com" } ]; 
+let abonnes = []; 
 
-let emprunts = [ 
-{ abonneId: 1, isbn: "123", dateEmprunt: "2025-09-22" } ]; 
+let emprunts = []; 
 
 
 
